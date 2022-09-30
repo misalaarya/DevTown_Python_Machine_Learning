@@ -6,11 +6,11 @@ Here's the link for you to watch the sessions as well
 ![image](https://user-images.githubusercontent.com/91966142/193312338-823745df-f55c-4d62-9036-839a104edd42.png)
 
 I got to have hands on experience on:
-Python
-Machine Learning
-Tensorflow
+1. Python
+2. Machine Learning
+3. Tensorflow
 during these 7 days, and everything was explained from the very basics so that anyone with zero experience on programming can learn. I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit: www.shapeai.tech or follow SHAPEAI on:
-LinkedIn
-Instagram
-YouTu be
-GitHub
+1. LinkedIn
+2. Instagram
+3. YouTube
+4. GitHub
