@@ -6,7 +6,6 @@ Here's the link for you to watch the sessions as well
 ![image](https://user-images.githubusercontent.com/91966142/193312338-823745df-f55c-4d62-9036-839a104edd42.png)
 
 I got to have hands on experience on:
-
 Python
 Machine Learning
 Tensorflow
